@@ -1,4 +1,4 @@
-# Project 1: Data Cleaning & Preparation
+# Task 1: Data Cleaning & Preparation
 
 ## Goal
 Clean a Raw Dataset by Handling missing values, Inconsistencies,
@@ -31,6 +31,7 @@ Duplicates, and Incorrect data type Format.
 - Original Dataset: 1,200 rows
 - Cleaned Dataset: 1,200 rows
 - Row Removed:No duplicate values found.
+- Missing values: 309 null values was replaced with "No Coupon"
 - Standardized Format: I Capitalized and trimmed all the Categorical columns
 - Number Format: All columns were changed to its appropriate data type.
 
