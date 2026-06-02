@@ -1,4 +1,4 @@
-# Task 1: Data Cleaning & Preparation
+# Step 1: Data Cleaning & Preparation
 
 ## Goal
 Clean a Raw Dataset by Handling missing values, Inconsistencies,
